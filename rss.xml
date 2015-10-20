@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[pixelProduct]]></title>
-        <description><![CDATA[pixelProduct]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[All things Digital. And more... ]]></title>
+        <description><![CDATA[All things Digital. And more... ]]></description>
+        <link>https://thegrid.ai/pixelproduct/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 11:59:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 20 Oct 2015 12:11:02 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pixelproduct/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">dfc49034-e075-47ae-af46-b6bbfc8e3cfc</guid>
-            <pubDate>Tue, 20 Oct 2015 11:58:24 GMT</pubDate>
+            <title><![CDATA[Desktop View]]></title>
+            <description><![CDATA[<article><h1>Desktop View</h1><p>Pixel Product</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3bbdb959-37e2-422c-b059-5fcb543ba781.jpg"></article>]]></description>
+            <link>https://thegrid.ai/pixelproduct/23d7c7ee-369c-4bd5-9237-a9c8e3931e81/index.html</link>
+            <guid isPermaLink="false">23d7c7ee-369c-4bd5-9237-a9c8e3931e81</guid>
+            <pubDate>Tue, 20 Oct 2015 12:10:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
