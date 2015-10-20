@@ -1,7 +1,7 @@
-name: null
+name: pixelProduct
 favicon: null
-layout_spectrum: 0.42828515195287764
-typography_spectrum: 0.1281130553688854
+layout_spectrum: 0.50929
+typography_spectrum: 0.54867
 cta:
   domain: null
   bucket: null
@@ -15,9 +15,14 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
+  brandColors:
+    - '#393629'
+    - '#e0f2fd'
+    - '#937f69'
+    - '#bab4a9'
+    - '#3ba295'
   brandStrength: 0.14862181385979056
   lightness: 0.15270753484219313
-  saturation: 0.8831976479850709
+  saturation: 1
   rhythmicContrast: 0.8263013833202422
 purpose: []
